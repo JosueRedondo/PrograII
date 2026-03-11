@@ -20,3 +20,7 @@ def mean(A, B):
 # Función que retorna la suma de dos valores
 def sum(A, B):
     return sum(A, B)
+
+# Función que retorna la resta de dos valores
+def resta(A, B):
+    return resta(A, B)
